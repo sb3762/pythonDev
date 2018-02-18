@@ -1,0 +1,6 @@
+readF = open("test1.txt","r")
+#print('here-1')
+s = readF.readlines()
+#print('here-2')
+print(s)
+#print('here-3')

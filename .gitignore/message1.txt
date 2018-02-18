@@ -1,0 +1,2 @@
+Hello <customerName>
+Reminder for your python class on Sunday at 7.30 AM PST
